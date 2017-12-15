@@ -1,9 +1,9 @@
-City, Rating, School, state, zip, street address
-Fair Lawn, 9, Warren Point Elementary School, NJ, 07410, 3007 Broadway
-Fair Lawn, 10, Henry B. Milnes Elementary School, NJ, 07410, 801 Phillip St
-Fair Lawn, 7, Radburn Elementary School, NJ, 07410, 1800 Radburn Rd
-Fair Lawn, 9, Lyncrest Elementary School, NJ, 07410, 9-04 Morlot Ave
-Fair Lawn, 4, John A. Forrest Elementary School, NJ, 07410, 10 00 Hopper Ave
-Fair Lawn, 8, Thomas Jefferson Middle School, NJ, 07410, 35 01 Morlot Ave
-Fair Lawn, 7, Memorial Middle School, NJ, 07410, 12 00 First St
-Fair Lawn, 8, Fair Lawn High School, NJ, 07410, 14 00 Berdan Ave
+City, Rating, School, type, state, zip, street address
+Fair Lawn, 9, Warren Point Elementary School, elementary, NJ, 07410, 3007 Broadway
+Fair Lawn, 10, Henry B. Milnes Elementary School, elementary, NJ, 07410, 801 Phillip St
+Fair Lawn, 7, Radburn Elementary School, elementary, NJ, 07410, 1800 Radburn Rd
+Fair Lawn, 9, Lyncrest Elementary School, elementary, NJ, 07410, 9-04 Morlot Ave
+Fair Lawn, 4, John A. Forrest Elementary School, elementary, NJ, 07410, 10 00 Hopper Ave
+Fair Lawn, 8, Thomas Jefferson Middle School, middle, NJ, 07410, 35 01 Morlot Ave
+Fair Lawn, 7, Memorial Middle School, middle, NJ, 07410, 12 00 First St
+Fair Lawn, 8, Fair Lawn High School, high, NJ, 07410, 14 00 Berdan Ave

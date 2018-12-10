@@ -1,0 +1,29 @@
+{
+    "UniqueName":
+    {
+        "website": "",
+        "school": "",
+        "address": "",
+        "phone": "",
+        "fax": "",
+        "email": ""
+    },
+    "CorpusChristiHasbrouckHeights":
+    {
+        "website": "http://www.corpuschristischool.net/",
+        "school": "Corpus Christi School",
+        "address": "215 Kipp Avenue  Hasbrouck Heights, NJ 07604",
+        "phone": "201-288-0614",
+        "fax": "201-288-5956",
+        "email": "ccsoffice@corpuschristischool.net"
+    },
+    "UniqueName":
+    {
+        "website": "http://school.stbartseb.com/",
+        "school": "Saint Bartholomew School",
+        "address": "470 Ryders Lane, East Brunswick, NJ 08816",
+        "phone": "732-254-7105",
+        "fax": "732-254-6352",
+        "email": ""
+    }
+}

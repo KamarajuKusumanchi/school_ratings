@@ -12,7 +12,7 @@
     {
         "website": "http://www.corpuschristischool.net/",
         "school": "Corpus Christi School",
-        "address": "215 Kipp Avenue  Hasbrouck Heights, NJ 07604",
+        "address": "215 Kipp Avenue, Hasbrouck Heights, NJ 07604",
         "phone": "201-288-0614",
         "fax": "201-288-5956",
         "email": "ccsoffice@corpuschristischool.net"
@@ -25,5 +25,14 @@
         "phone": "732-254-7105",
         "fax": "732-254-6352",
         "email": ""
+    },
+    "MetuchenChristian":
+    {
+        "website": "https://www.metuchenchristian.org/",
+        "school": "Metuchen Christian Academy",
+        "address": "130 Whitman Ave, Metuchen, NJ 08840",
+        "phone": "732-549-7854",
+        "fax": "732-549-4434",
+        "email": "showarth@metuchenag.org"
     }
 }
